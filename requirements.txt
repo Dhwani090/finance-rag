@@ -1,0 +1,15 @@
+torch>=2.2
+transformers>=4.40
+sentence-transformers>=2.7
+faiss-cpu
+accelerate
+datasets
+scipy
+numpy
+pandas
+tqdm
+
+openai
+
+python-dotenv
+pyyaml
